@@ -1,13 +1,10 @@
-### [Workshop Análise de dados | Você sabe extrair informações de dados?]
+## Exercício de Análise de Dados em Python
 
-Dado? Informação? É tudo a mesma coisa?
+## Sobre o exercício
+Este exercício consiste em explorar e analisar os **Microdados do ENEM** utilizando Python. O objetivo é praticar conceitos de análise de dados, manipulação de dados e extração de informações relevantes a partir de conjuntos de dados públicos. 
 
-No workshop de análise de dados em Python, são apresentados os conceitos iniciais e sites onde é possível encontrar dados abertos e o conjunto de dados escolhido para as análises: os Microdados do ENEM.
+## Fonte dos dados
+- Microdados ENEM: [http://portal.inep.gov.br/microdados](http://portal.inep.gov.br/microdados)
 
-Este projeto contém os seguintes **arquivos principais**:
-
-* `analise_enem.ipynb`: Notebook com os códigos de análise dos microdados do ENEM.
-* `data/`: Pasta destinada aos arquivos de dados do ENEM utilizados nas análises.
-
-**Fontes dos dados analisados:**
-* Microdados ENEM - [http://portal.inep.gov.br/microdados](http://portal.inep.gov.br/microdados)
+## Observações
+- Os arquivos de dados podem ser grandes; recomenda-se cuidado ao carregar arquivos CSV muito pesados.  
